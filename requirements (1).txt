@@ -1,0 +1,9 @@
+tensorflow 
+tensorflow_hub 
+mtcnn 
+scikit-learn 
+OpenCV
+python 
+numpy
+matplotlib 
+tqdm
