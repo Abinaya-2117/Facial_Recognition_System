@@ -145,13 +145,13 @@ This improvement demonstrates the importance of **data quality and evaluation me
 
 ### Version 1 — Before Fix (40%)
 
-![Initial Results](images/results_before_fix.png)
+![Initial Results](Results_v1.png)
 
 ---
 
 ### Version 2 — After Fix (80%)
 
-![Improved Results](images/results_after_fix.png)
+![Improved Results](Results_v2.png)
 
 ---
 
