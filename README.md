@@ -3,7 +3,7 @@
 An end-to-end facial recognition system that combines deep learning feature extraction with machine learning classification to recognize human identities from unconstrained images. This project evolved from an initial prototype into a significantly more reliable system after identifying and resolving an Out-of-Distribution (OOD) evaluation issue, improving prediction performance from **2/5 (40%)** to **4/5 (80%)**.
 
 ---
-
+![Project Evolution](Face_Recognition_system_thumbnail.png)
 # Why I Built This
 
 Modern facial recognition systems are expected to work under varying lighting conditions, facial expressions, camera angles, and image quality. While training a model is relatively straightforward, building one that generalizes to unseen images is considerably more challenging.
